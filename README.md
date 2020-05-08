@@ -48,5 +48,5 @@
 
 ## Otros
 
-- **[`Notas sobre deployments`](https://github.com/undefinedschool/notes-deployment)**
+- **[`Deployments`](https://github.com/undefinedschool/notes-deployment)**
 - **[`Git Rebase vs Git Merge`](https://github.com/undefinedschool/notes-rebase-vs-merge)**
