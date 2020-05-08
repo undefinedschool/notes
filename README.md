@@ -3,7 +3,7 @@
 
 > 👉 Si te resultó útil, **se agradece que lo compartas para que le llegue a más gente!**
 
-# ![Notas sobre JavaScript Full Stack](https://i.imgur.com/SKd829n.png)
+# ![Notas sobre JavaScript Full Stack](https://i.imgur.com/r1niqs6.png)
 
 ## JavaScript
 
