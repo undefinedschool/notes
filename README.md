@@ -13,12 +13,12 @@
   </sub>
   </p>
   
-  <h3 align="center">
+  <h4 align="center">
   ☕ 
   <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=243772354-b32a750f-2505-41c1-8e5e-9dcdb4536593" name="MP-payButton" class='blue-ar-l-rn-none'>
     <strong>Invitame 1 café!</strong>
   </a>
-  </h3>
+  </h4>
   <hr>
 </div>
 
