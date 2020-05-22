@@ -2,21 +2,37 @@
 
 <div align="center">  
   <p align="center">
-  <sub>
-    Estas notas fueron elaboradas por <a href="https://twitter.com/_nhsz" target="_blank" rel="noreferrer noopener">@_nhsz</a>, como parte del contenido de los cursos de <a href="https://undefinedschool.io/" target="_blank" rel="noreferrer noopener"><strong>undefined school</strong></a>, una escuela de <strong>Desarrollo Web Full Stack JavaScript</strong>, <a href="https://github.com/undefinedschool/" target="_blank" rel="noreferrer noopener">100% Open Source</a>, con <strong>mentorías personalizadas para grupos reducidos</strong> y el foco puesto en los <strong>fundamentos</strong> y <strong>conceptos avanzados</strong> ⚡
+  <sub>Hola! Soy Nico (<strong>nhsz</strong>), <strong>Dev Full Stack JavaScript y mentor</strong>.</sub>
+  </p>
+  
+  <p align="center">
+    <sub>
+      Hace un tiempo (principios de 2019) empecé un proyecto llamado undefined school, una escuela de Desarrollo Web Full Stack JavaScript 100% Open Source, con mentorías personalizadas para grupos reducidos y el foco puesto en los fundamentos y conceptos avanzados.
+    </sub>
+  </p>
+
+  <p align="center">
+    <sub>
+      Me interesa mucho la intersección entre la educación y la tecnología, por eso también participo en proyectos como <a href="https://freecodecampba.org">freeCodeCampBA</a> (co-founder y co-organizador) y <a href="https://twitter.com/LXBA_">Learning Experience BA</a> (co-founder y co-organizador).
+    </sub>
+  </p>
+
+ <p align="center">
+    <sub>
+  👉 Si estás arrancando en el mundo del desarrollo web y necesitás una mano, podés encontrarme en <a href="https://twitter.com/_nhsz/">Twitter</a> (también para hablar sobre cualquier tema relacionado a JavaScript o #nerdeadas en general 😛).
   </sub>
   </p>
   
   <p align="center">
   <sub>
-    Si te resultaron útiles, te cuento que soy muy fan del café; si querés colaborar para que no me quede dormido y siga escribiendo guías, apuntes y más <strong>contenido Open Source en español</strong>, podés invitarme uno, gracias! ❤️
+    Si las notas te resultaron útiles, te cuento que soy muy fan del café (obvio que negro y sin azúcar), asi que si querés colaborar para que no me quede dormido y siga escribiendo guías, apuntes y más <strong>contenido Open Source en español</strong>, podés invitarme uno, gracias! ❤️
   </sub>
   </p>
   
   <p align="center">
   ☕
   <code> 
-  <a href="https://www.buymeacoffee.com/nhsz">
+  <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=243772354-b32a750f-2505-41c1-8e5e-9dcdb4536593">
     <strong>Invitame 1 café!</strong>
   </a>
   </code>
