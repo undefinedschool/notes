@@ -1,4 +1,4 @@
-# ![Tips para conseguir trabajo](https://i.imgur.com/HvIM7M5.png)
+# ![Notas sobre JavaScript Full Stack](https://i.imgur.com/r1niqs6.png)
 
 <div align="center">  
   <p align="center">
