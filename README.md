@@ -32,7 +32,7 @@
   <p align="center">
   ☕
   <code> 
-  <a href="https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=243772354-b32a750f-2505-41c1-8e5e-9dcdb4536593">
+  <a href="https://cafecito.app/nhsz">
     <strong>Invitame 1 café!</strong>
   </a>
   </code>
