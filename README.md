@@ -40,6 +40,10 @@
   <hr>
 </div>
 
+## Tips para conseguir trabajo
+
+Ver [tips](https://github.com/undefinedschool/get-a-job.md)
+
 ## JavaScript
 
 ### Conceptos
