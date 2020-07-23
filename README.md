@@ -2,7 +2,7 @@
 
 <div align="center">  
   <p align="center">
-  <sub>Hola! Soy Nico (<strong>nhsz</strong>), <strong>Dev Full Stack JavaScript y mentor</strong>.</sub>
+  <sub>Hola! Soy Nico (<a href="https://twitter.com/_nhsz"><strong>nhsz</strong></a>), <strong>Dev Full Stack JavaScript y mentor</strong>.</sub>
   </p>
   
   <p align="center">
