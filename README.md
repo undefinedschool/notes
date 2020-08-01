@@ -2,25 +2,19 @@
 
 <div align="center">  
   <p align="center">
-  <sub>Hola! Soy Nico (<a href="https://twitter.com/_nhsz"><strong>nhsz</strong></a>), <strong>Dev Full Stack JavaScript y mentor</strong>.</sub>
+    Buscás mentoreo en <strong>Desarrollo Full Stack JavaScript</strong>?
   </p>
   
   <p align="center">
-    <sub>
-      Hace un tiempo (principios de 2019) empecé un proyecto llamado <a href="https://undefinedschool.io"><strong>undefined school</strong></a>, una <strong>escuela de Desarrollo Web Full Stack JavaScript</strong>, 100% Open Source, con mentorías personalizadas para grupos reducidos y el foco puesto en los <strong>fundamentos</strong> y <strong>conceptos avanzados</strong>. Las <strong>notas</strong> que estás leyendo forman parte del contenido.
-    </sub>
+  👉 <a href='https://mentorship.undefinedschool.io' rel='noopener' target='_blank'><strong>mentorship.undefinedschool.io</strong></a>
   </p>
+  <hr>
+</div>
 
-  <p align="center">
-    <sub>
-      Me interesan los temas relacionados a educación y tecnología, por eso participo en proyectos como <a href="https://freecodecampba.org">freeCodeCampBA</a> (co-founder y co-organizador) y <a href="https://twitter.com/LXBA_">Learning Experience BA</a> (co-founder y co-organizador).
-    </sub>
-  </p>
-
- <p align="center">  
+<div align="center">  
   <p align="center">
   <sub>
-    Por último, te cuento que soy muy fan del café (obvio que negro y sin azúcar), así que podés invitarme uno y apoyarme para que siga escribiendo guías, apuntes y más <strong>contenido Open Source en español</strong>, gracias! ❤️
+    Si el contenido te sirvió, podés invitarme un café y apoyarme para que siga escribiendo guías, apuntes y más <strong>contenido Open Source en español</strong>, gracias! ❤️
   </sub>
   </p>
   
