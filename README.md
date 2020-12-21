@@ -51,6 +51,7 @@
 - **[`Principios de React`](https://github.com/undefinedschool/notes-react-principles)**
 - **[`Conceptos básicos de React`](https://github.com/undefinedschool/notes-react-basics)**
 - **[`Redux`](https://github.com/undefinedschool/notes-redux)**
+- **[`Webpack`](https://github.com/undefinedschool/notes-webpack)**
 
 ## Backend
 
