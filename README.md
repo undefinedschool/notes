@@ -61,7 +61,7 @@
 - **[`Bases de Datos Relacionales`](https://github.com/undefinedschool/notes-dbs)**
 - **[`Relaciones en DBs`](https://github.com/undefinedschool/notes-dbs-relationships)**
 - **[`SQL`](https://github.com/undefinedschool/notes-sql)**
-- **[`Autenticación`](https://github.com/undefinedschool/notes-auth)**
+- **[`Autenticación` [WIP]](https://github.com/undefinedschool/notes-auth)**
 
 ## Paradigmas
 
