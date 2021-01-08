@@ -50,7 +50,7 @@
 - **[`Tailwind CSS`](https://github.com/undefinedschool/notes-tailwind-css)**
 - **[`React: Principios`](https://github.com/undefinedschool/notes-react-principles)**
 - **[`React: Conceptos Básicos`](https://github.com/undefinedschool/notes-react-basics)**
-- **[`React: Component Lifecycle` [WIP]](#)**
+- **[`React: Component Lifecycle`](https://github.com/undefinedschool/notes-react-component-lifecycle/)**
 - **[`React: Conceptos Avanzados` [WIP]](#)**
 - **[`React Hooks` [WIP]](https://github.com/undefinedschool/notes-react-hooks/)**
 - **[`Redux`](https://github.com/undefinedschool/notes-redux)**
