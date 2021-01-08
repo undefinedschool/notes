@@ -52,7 +52,7 @@
 - **[`React: Conceptos Básicos`](https://github.com/undefinedschool/notes-react-basics)**
 - **[`React: Component Lifecycle` [WIP]](#)**
 - **[`React: Conceptos Avanzados` [WIP]](#)**
-- **[`React Hooks [WIP]`](https://github.com/undefinedschool/notes-react-hooks/)**
+- **[`React Hooks` [WIP]](https://github.com/undefinedschool/notes-react-hooks/)**
 - **[`Redux`](https://github.com/undefinedschool/notes-redux)**
 - **[`Webpack`](https://github.com/undefinedschool/notes-webpack)**
 
