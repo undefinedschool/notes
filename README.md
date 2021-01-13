@@ -66,6 +66,10 @@
 - **[`SQL`](https://github.com/undefinedschool/notes-sql)**
 - **[`Autenticación` [WIP]](https://github.com/undefinedschool/notes-auth)**
 
+## TypeScript
+
+- **[`Conceptos Básicos` [WIP]](#)**
+
 ## Paradigmas
 
 - **[`Programación Orientada a Objetos en JS`](https://github.com/undefinedschool/notes-oop-js)**
