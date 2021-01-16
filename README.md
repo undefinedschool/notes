@@ -55,6 +55,7 @@
 - **[`React Hooks` [WIP]](https://github.com/undefinedschool/notes-react-hooks/)**
 - **[`Redux`](https://github.com/undefinedschool/notes-redux)**
 - **[`Webpack`](https://github.com/undefinedschool/notes-webpack)**
+- **[`NextJS` [WIP]](#)**
 
 ## Backend
 
