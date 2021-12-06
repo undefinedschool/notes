@@ -6,7 +6,7 @@
   </p>
   
   <p align="center">
-  👉 <a href='https://undefinedschool.io' rel='noopener' target='_blank'><strong>mentorship.undefinedschool.io</strong></a>
+  👉 <a href='https://undefinedschool.io' rel='noopener' target='_blank'><strong>undefinedschool.io</strong></a>
   </p>
   <hr>
 </div>
